@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JosiahMCodes
+- 👀 I’m interested in learning how to code so I can use it to make useful things as well as have fun.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me, @JosiahMCodes@gmail.com. I may not respond immmediatly, and I deeply apologize for that.
